@@ -3,3 +3,4 @@ Pasos a seguir para crear un archivo Git Ignore
 1. Crear un archivo llamado .Gitignore
 2. Indicar los archivos que no deseamos que se suban a nuestro repositorio remoto
 3. Guardar archivo
+4. Subir archivo .gitignore al repositorio remoto.
