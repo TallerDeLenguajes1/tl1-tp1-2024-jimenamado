@@ -1,5 +1,4 @@
 
-.GITIGNORE 
 El archivo .gitignore es utilizado por el sistema de control de versiones Git para especificar archivos y directorios que deben ser ignorados y no deben ser rastreados por Git
 es conveniente incluirlo ya que ayuda a mantener el repositorio limpio y evita problemas al compartir el codigo con otros desarrolladores o al implementarlo en diferentes entornos. 
 
