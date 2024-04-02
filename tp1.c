@@ -13,6 +13,4 @@ void main (){
     printf("\nLa direccion de memoria del puntero:%p",puntero);
     printf("\nEl tamaño de memoria utilizado por la variable:%zu bytes", sizeof(num1));
 
-
-    
 }
